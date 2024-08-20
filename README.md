@@ -19,7 +19,9 @@
   <ul>
     <li><a href="https://coworking-pf.vercel.app/">Coworking Relux</a> - Final bootcamp project for coworking offices reservation system, built with Next.js, React.js, NestJS, TypeORM, PostgreSQL, with Swagger used for documentation, Stripe implemented and cron-based email sending. (Public repository <a href="https://github.com/PF-04-Coworking/coworkingPF">here</a>)</li>
     <li><a href="https://ecommerce-api-ec27.onrender.com/api">Ecommerce API</a> - Bootcamp project for an Ecommerce API, built with NestJS, TypeORM, and documented with Swagger (Public repository <a href="https://github.com/BardoUntiveros/ecommerce-api">here</a>)</li>
-    <li><a href="https://www.skymoneyapp.com/">Skymoney</a> - Real project for flight disruption claim submission system, built with React.js, Django Rest Framework, PostgreSQL.</li>
+    <li><a href="https://www.skymoneyapp.com/">Skymoney</a> - Real project for flight disruption claim submission system, built with React.js, Django Rest Framework, PostgreSQL.
+    </li>
+    <li><a href="https://www.irisapp.pe/">Iris Notificaciones</a> - SaaS for peruvian lawyers to receive automated daily notifications on news about their judicial proceedings. Currently being updated.</li>
   </ul>
   <br>
 
