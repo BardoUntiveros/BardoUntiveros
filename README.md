@@ -10,7 +10,7 @@
   <br>
   
   <!-- Profile Description -->
-  <h2 >About Me</h2>
+  <h2>About Me</h2>
   <p>Currently, I am working on Iris Notificaciones, a SaaS project for lawyers helping get notified automatically with their legal cases, as well as constantly practicing with full stack projects</p>
   <br>
   
@@ -21,6 +21,34 @@
     <li><a href="https://ecommerce-api-ec27.onrender.com/api">Ecommerce API</a> - Bootcamp project for an Ecommerce API, built with NestJS, TypeORM, and documented with Swagger (Public repository <a href="https://github.com/BardoUntiveros/ecommerce-api">here</a>)</li>
     <li><a href="https://www.skymoneyapp.com/">Skymoney</a> - Real project for flight disruption claim submission system, built with React.js, Django Rest Framework, PostgreSQL.</li>
   </ul>
+  <br>
+
+<!-- Skills -->
+<h2>Skills</h2>
+
+<!-- Frontend Skills -->
+<h3 align="center">Frontend</h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,redux,tailwind,vite" alt="Frontend Skills" />
+  </a>
+</p>
+
+<!-- Backend Skills -->
+<h3 align="center">Backend</h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=django,flask,express,nodejs,py,postgres" alt="Backend Skills" />
+  </a>
+</p>
+
+<!-- DevOps & Tools -->
+<h3 align="center">DevOps & Tools</h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=aws,docker,git,heroku,vercel,ubuntu,postman,selenium" alt="DevOps & Tools Skills" />
+  </a>
+</p>
   <br>
   
   <!-- Social Links -->
