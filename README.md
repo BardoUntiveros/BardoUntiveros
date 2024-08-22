@@ -40,7 +40,7 @@
 <h3 align="center">Backend</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=django,flask,express,nodejs,py,postgres" alt="Backend Skills" />
+    <img src="https://skillicons.dev/icons?i=django,flask,express,nodejs,py,nestjs,postgres" alt="Backend Skills" />
   </a>
 </p>
 
